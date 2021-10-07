@@ -1,0 +1,15 @@
+
+
+body {
+  margin: 0;
+  border: 0;
+  font-size: 100%;
+  color: #ffffff;
+  background: linear-gradient(0deg, rgb(29, 100, 133) 0%, rgb(0, 0, 0) 100%);
+  background-attachment: fixed;
+  height: 100%;
+}
+
+a {
+  color: white;
+}
